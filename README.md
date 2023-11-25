@@ -2,7 +2,7 @@
 
 ## How to Use border-radius.htc
 
-To apply rounded corners to elements in Internet Explorer 7-9, you can use the `border-radius.htc` file. Follow these steps:
+To apply rounded corners to elements in Internet Explorer 8 and below, you can use the `border-radius.htc` file. Follow these steps:
 
 1. Include the `border-radius.htc` file in your project.
 
@@ -23,7 +23,7 @@ To apply rounded corners to elements in Internet Explorer 7-9, you can use the `
 
 ### Browser Compatibility
 
-The `border-radius.htc` file was specifically built for Internet Explorer versions 7-9. Here's why:
+The `border-radius.htc` file was specifically built for Internet Explorer versions 8 and below. Here's why:
 
 #### Changes Made
 
